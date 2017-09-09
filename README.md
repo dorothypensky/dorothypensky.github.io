@@ -1,3 +1,8 @@
+Dorothy Pensky is a writer of novels for young adults and middle graders. 
+She has an MFA in Writing for Children from Vermont College. 
+Please visit the [Books with Sample Chapters](books-with-sample-chapters) page for more information on her book, 
+**Queenspearls**.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dorothypensky/dorothypensky.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
