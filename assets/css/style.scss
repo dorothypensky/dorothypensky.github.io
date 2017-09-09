@@ -32,3 +32,21 @@ a img {
   margin: 0;
   padding: 0;
 }
+
+#pagebar ul li {
+  margin:2px;
+  display: inline;
+}
+
+#pagebar a {
+  color: #ffff99;
+	margin: 0;
+  font-size: 90%;
+  padding-left: 10px; padding-right: 10px;
+	text-decoration: none;
+}
+
+#pagebar a:hover {
+  color: #ffffcc;
+  background-color: #993300;
+}
