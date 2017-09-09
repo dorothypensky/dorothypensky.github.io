@@ -17,11 +17,13 @@ a img {
 #header {
   margin: 0; padding: 0;
   height: 200px;
+  position:absolute;
+  top:30px; left: 100px;
 }
 
 #pagebar {
-  position:absolute;
-  left:344px;width:554px;top:175px;
+  position:relative;
+  left:250px;width:554px;top:250px;
   background-color: #cc6600;
   margin:0;
   border: 1px solid #cdc28b;
