@@ -5,12 +5,9 @@ Please visit the [Books with Sample Chapters](books.md) page for more informatio
 
 # Books with sample chapters
 
-First Header | Second Header
------------- | -------------
-![Mermaid](images/jm-mermaid.jpg) | *Queenspearls*
-
-[Queenspearls - Chapter One](https://drive.google.com/open?id=0B0qMR_FKPRPvVDYxa1czXy16MkE) |
-[Queenspearls - Chapter Two](chapter two url) | 
+![Mermaid](images/jm-mermaid.jpg){:style="color:red"}{:rowspan="3"} | *Queenspearls*
+|[Queenspearls - Chapter One](https://drive.google.com/open?id=0B0qMR_FKPRPvVDYxa1czXy16MkE) |
+|[Queenspearls - Chapter Two](chapter two url) | 
 
 # Biography
 
