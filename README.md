@@ -26,6 +26,7 @@ She has an MFA in Writing for Children from Vermont College.
 # Biography
 
 ![Baby Dorothy](/images/dorothybaby.jpg)
+{:.topimage}
 
 I grew up in a series of small towns, spending most of my childhood in a tree with a book.
 
