@@ -61,22 +61,6 @@ a img {
   margin-top: 4em;
 }
 
-.credit {
-	font-size: 11px;
-	margin: 0;
-	padding: 3px;
-  padding-top: 0;
-	text-align: center;
-}
-
-.credit a, .credit a:link, .credit a:visited {
-  color: #ffffcc;
-}
-
-.credit a:hover {
-  color: #ffffdd;
-}
-
 table.contacts {
   margin-left:0px;
   margin-top:15px;
@@ -98,6 +82,7 @@ td.contactdata {
 
 table.booktable {
   margin-top:20px;
+  border-style: none !important;
 }
 
 table.booktable tr {
