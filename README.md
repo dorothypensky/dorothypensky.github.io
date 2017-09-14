@@ -1,7 +1,7 @@
 Dorothy Pensky is a writer of novels for young adults and middle graders. 
 She has an MFA in Writing for Children from Vermont College. 
 
-# Books with sample chapters
+# Books with sample chapters{:style="margin-top:5em"}
 
 <table class="booktable" border="0">
 <tbody>
@@ -23,7 +23,7 @@ She has an MFA in Writing for Children from Vermont College.
 </tbody>
 </table>
 
-# Biography
+# Biography{:style="margin-top:5em"}
 
 ![Baby Dorothy](/images/dorothybaby.jpg){:.topimage}
 
@@ -40,7 +40,7 @@ I spent some time after that writing full time until I could no longer afford to
 I received my third master’s degree from Kent State in School Librarianship and went to work 
 as a school librarian for six years. When I found that I could afford to do so, I quit to write full time, again.
 
-# Contact Dorothy Pensky:
+# Contact Dorothy Pensky:{:style="margin-top:5em"}
 
 > 20876 Almar Drive  
 > Shaker Heights, OH 44122-3810  
