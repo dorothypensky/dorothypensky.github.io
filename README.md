@@ -1,13 +1,27 @@
 Dorothy Pensky is a writer of novels for young adults and middle graders. 
 She has an MFA in Writing for Children from Vermont College. 
-Please visit the [Books with Sample Chapters](books.md) page for more information on her book, 
-**Queenspearls**.
 
 # Books with sample chapters
 
-![Mermaid](images/jm-mermaid.jpg){:style="color:red"}{:rowspan="3"} | *Queenspearls*
-|[Queenspearls - Chapter One](https://drive.google.com/open?id=0B0qMR_FKPRPvVDYxa1czXy16MkE) |
-|[Queenspearls - Chapter Two](chapter two url) | 
+<table class="booktable" border="0">
+<tbody>
+<tr>
+<td>
+<h3><a href="https://drive.google.com/open?id=0B0qMR_FKPRPvVDYxa1czXy16MkE">Queenspearls - Chapter One</a></h3>
+<h3><a href="http://www.pensky.net/dorothy/Chapter%20Two%20Queenspearls.docx">Queenspearls - Chapter Two</a></h3>
+</td>
+<td colspan="2">
+<img class="bookrightimage" title="Mermaid" src="/images/jm-mermaid.jpg" alt="Mermaid" width="90" height="200" />
+</td>
+</tr>
+<tr>
+<td class="photocredit" colspan="2">mermaid and photo © Jenny Mendes</td>
+</tr>
+<tr>
+<td class="photocredit" colspan="2"><a href="http://www.jennymendes.com">www.jennymendes.com</a></td>
+</tr>
+</tbody>
+</table>
 
 # Biography
 
