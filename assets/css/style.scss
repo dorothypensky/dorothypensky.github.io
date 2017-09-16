@@ -86,7 +86,8 @@ table.booktable {
   border-style: none !important;
 }
 
-table.booktable tr {
+table.booktable tr, table.booktable td {
+  border-style: none !important;
 }
 
 img.bookleftimage, img.bookrightimage {
