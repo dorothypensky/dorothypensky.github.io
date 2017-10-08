@@ -49,7 +49,3 @@ as a school librarian for six years. When I found that I could afford to do so, 
 > (216) 470-1022 -- mobile  
 >
 > [Dorothy@pensky.net](mailto:Dorothy@Pensky.net)
-
-
-
-
