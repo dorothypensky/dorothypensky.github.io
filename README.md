@@ -7,8 +7,27 @@ She has an MFA in Writing for Children from Vermont College.
 <tbody>
 <tr>
 <td>
-<h3><a href="https://drive.google.com/open?id=0B0qMR_FKPRPvVDYxa1czXy16MkE">Queenspearls - Chapter One</a></h3>
+<h3><a href="https://drive.google.com/open?id=0B0qMR_FKPRPvVDYxa1czXy16MkE">Queenspearls - Chapter One (old)</a></h3>
+<!--
 <h3><a href="http://www.pensky.net/dorothy/Chapter%20Two%20Queenspearls.docx">Queenspearls - Chapter Two</a></h3>
+-->
+
+<h3>
+  <a href="https://drive.google.com/open?id=0B0qMR_FKPRPvcTVoN2xSV1ZXdFdKZ1JOMlRUalcwazNCMkF3">
+    Queenspearls - Chapter One
+  </a>
+</h3>
+<h3>
+  <a href="https://drive.google.com/open?id=0B0qMR_FKPRPvMTIxblViT3BsdWNVSDZJZUEwaE5VUDBnZ2pR">
+    Queenspearls - Chapter Two
+  </a>
+</h3>
+<h3>
+  <a href="https://drive.google.com/open?id=0B0qMR_FKPRPvZHAtTHlNVFFKSlQtalJsRkNURmJOT3kxbUM4">
+    Queenspearls - Chapter Three
+  </a>
+</h3>
+
 </td>
 <td colspan="2">
 <img class="bookrightimage" title="Mermaid" src="/images/jm-mermaid.jpg" alt="Mermaid" width="90" height="200" />
