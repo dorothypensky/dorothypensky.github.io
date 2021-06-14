@@ -9,17 +9,17 @@ She has an MFA in Writing for Children from Vermont College.
 <td>
 
 <h3>
-  <a href="https://drive.google.com/open?id=0B0qMR_FKPRPvcTVoN2xSV1ZXdFdKZ1JOMlRUalcwazNCMkF3">
+  <a href="https://drive.google.com/file/d/1FCs7eJ1LT-EJW-YStD9TqBSfcruRiQiU/view?usp=sharing">
     Queenspearls - Chapter One
   </a>
 </h3>
 <h3>
-  <a href="https://drive.google.com/open?id=0B0qMR_FKPRPvMTIxblViT3BsdWNVSDZJZUEwaE5VUDBnZ2pR">
+  <a href="https://drive.google.com/file/d/1UPrayF60O9ENH6DLSdmCB9isBBKvjwJs/view?usp=sharing">
     Queenspearls - Chapter Two
   </a>
 </h3>
 <h3>
-  <a href="https://drive.google.com/open?id=0B0qMR_FKPRPvZHAtTHlNVFFKSlQtalJsRkNURmJOT3kxbUM4">
+  <a href="https://drive.google.com/file/d/1PTHGyb9_qt9PctaL166I7GzLjkToFx5b/view?usp=sharing">
     Queenspearls - Chapter Three
   </a>
 </h3>
