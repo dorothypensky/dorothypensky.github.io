@@ -9,18 +9,18 @@ She has an MFA in Writing for Children from Vermont College.
 <td>
 
 <h3>
-  <a href="https://drive.google.com/file/d/1FCs7eJ1LT-EJW-YStD9TqBSfcruRiQiU/view?usp=sharing">
-    Queenspearls - Chapter One
+  <a href="https://docs.google.com/document/d/1QcL2VOroyh1SiiPmDdsE8Sc6zc_TxRGm/edit?usp=sharing&ouid=100642649874119333923&rtpof=true&sd=true">
+    Secrets of Blood and Song - Chapter One
   </a>
 </h3>
 <h3>
-  <a href="https://drive.google.com/file/d/1UPrayF60O9ENH6DLSdmCB9isBBKvjwJs/view?usp=sharing">
-    Queenspearls - Chapter Two
+  <a href="https://docs.google.com/document/d/17II5tZrgq4sOWmPQE5vbrKlocskSZS8C/edit?usp=sharing&ouid=100642649874119333923&rtpof=true&sd=true">
+    Secrets of Blood and Song - Chapter Two
   </a>
 </h3>
 <h3>
-  <a href="https://drive.google.com/file/d/1PTHGyb9_qt9PctaL166I7GzLjkToFx5b/view?usp=sharing">
-    Queenspearls - Chapter Three
+  <a href="https://docs.google.com/document/d/1QISlV6US-aipd8Ky3gQZgP4mqPj5TMJE/edit?usp=sharing&ouid=100642649874119333923&rtpof=true&sd=true">
+    Secrets of Blood and Song - Chapter Three
   </a>
 </h3>
 
