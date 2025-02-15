@@ -9,17 +9,17 @@ She has an MFA in Writing for Children from Vermont College.
 <td>
 
 <h3>
-  <a href="https://docs.google.com/document/d/13lMhoU1HLjza0NVTuYVmAxVwszsbUC6t/edit?usp=drive_link&ouid=100642649874119333923&rtpof=true&sd=true">
+  <a href="https://docs.google.com/document/d/1ws_3iKyfkN1PInq-msKIZffZOM-CcqCP/edit?usp=drive_link&ouid=100642649874119333923&rtpof=true&sd=true">
     Secrets of Blood and Song - Chapter One
   </a>
 </h3>
 <h3>
-  <a href="https://docs.google.com/document/d/111ONTX3FldBzHXl_-EYpiRzXhg8am_QU/edit?usp=drive_link&ouid=100642649874119333923&rtpof=true&sd=true">
+  <a href="https://docs.google.com/document/d/1c7w6-UzyhyDlPQ3IJlPj14p73UOFIAf0/edit?usp=drive_link&ouid=100642649874119333923&rtpof=true&sd=true">
     Secrets of Blood and Song - Chapter Two
   </a>
 </h3>
 <h3>
-  <a href="https://docs.google.com/document/d/1QISlV6US-aipd8Ky3gQZgP4mqPj5TMJE/edit?usp=sharing&ouid=100642649874119333923&rtpof=true&sd=true">
+  <a href="https://docs.google.com/document/d/1cmULqzChI5SLJw8GCc42_8YJM70l6kRJ/edit?usp=drive_link&ouid=100642649874119333923&rtpof=true&sd=true">
     Secrets of Blood and Song - Chapter Three
   </a>
 </h3>
@@ -42,8 +42,7 @@ She has an MFA in Writing for Children from Vermont College.
 
 ![Baby Dorothy](/images/dorothybaby.jpg){:.topimage}
 
-I grew up in a series of small towns, spending most of my childhood in a tree with a book.
-After studying philosophy and dance at the College of Wooster in Ohio, I danced in a dance company and had my own performance art company with a friend. Tired of being poor, I studied for my M.Ed. in vision impairment and taught blind and low vision kids for three years. The desire to create became too much, and I started writing short stories while working as a children’s bookseller. Vermont College announced that it was starting an MFA in Writing for Children and Young Adults program, and I was delighted and got my second master’s degree. I was lucky enough to spend some time after that writing full time until I could no longer afford to do that. I received my third master’s degree from Kent State in School Librarianship and went to work as a school librarian for six years. When I found that I could afford to do so, I quit to write full time, again. I’m a late-diagnosed autistic person with ADHD and Bipolar Disease, which I have found gives me an interesting perspective
+I grew up undiagnosed autistic/ADHD in a series of small towns, spending most of my childhood in a tree with a book. While writing and voracious reading have always been my passion, I’ve been a dancer in a dance company, started my own performance art company with a friend in the 90s, and am now in a community classical guitar orchestra. I’ve been a teacher of the blind, a bookseller, and a school librarian. But always writing, always reading.
 
 
 # Contact Dorothy Pensky:
